@@ -16,4 +16,4 @@ fn main() {
 }
 ```
 
-Más información en [**Rust Book: Match**](https://rustlanges.github.io/rust-book-es/ch06-02-match.html)
+Más información en [**Rust Book: Match**](https://book.rustlang-es.org/rust-book-es/ch06-02-match.html)

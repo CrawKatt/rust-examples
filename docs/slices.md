@@ -14,4 +14,4 @@ fn main() {
 }
 ```
 
-Más información en [**Rust Book: Slices**](https://rustlanges.github.io/rust-book-es/ch04-03-slices.html)
+Más información en [**Rust Book: Slices**](https://book.rustlang-es.org/rust-book-es/ch04-03-slices.html)

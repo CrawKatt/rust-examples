@@ -12,4 +12,4 @@ fn main() {
 }
 ```
 
-Más información en [**Rust Book: Closures**](https://rustlanges.github.io/rust-book-es/ch13-01-closures.html)
+Más información en [**Rust Book: Closures**](https://book.rustlang-es.org/rust-book-es/ch13-01-closures.html)
